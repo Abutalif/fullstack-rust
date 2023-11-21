@@ -1,0 +1,12 @@
+/home/abutalif/rust_projects/fullstack-rust/backend/target/debug/deps/tempfile-0f94a3cc80a5587d.rmeta: /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/lib.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/dir.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/error.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/mod.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/imp/mod.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/spooled.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/util.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/imp/unix.rs
+
+/home/abutalif/rust_projects/fullstack-rust/backend/target/debug/deps/tempfile-0f94a3cc80a5587d.d: /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/lib.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/dir.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/error.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/mod.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/imp/mod.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/spooled.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/util.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/imp/unix.rs
+
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/lib.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/dir.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/error.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/mod.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/imp/mod.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/spooled.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/util.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.8.1/src/file/imp/unix.rs:

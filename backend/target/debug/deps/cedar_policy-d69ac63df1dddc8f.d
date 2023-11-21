@@ -1,0 +1,10 @@
+/home/abutalif/rust_projects/fullstack-rust/backend/target/debug/deps/cedar_policy-d69ac63df1dddc8f.rmeta: /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cedar-policy-2.4.2/src/lib.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cedar-policy-2.4.2/src/api.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cedar-policy-2.4.2/src/frontend/mod.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cedar-policy-2.4.2/src/frontend/is_authorized.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cedar-policy-2.4.2/src/frontend/utils.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cedar-policy-2.4.2/src/frontend/validate.rs
+
+/home/abutalif/rust_projects/fullstack-rust/backend/target/debug/deps/cedar_policy-d69ac63df1dddc8f.d: /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cedar-policy-2.4.2/src/lib.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cedar-policy-2.4.2/src/api.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cedar-policy-2.4.2/src/frontend/mod.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cedar-policy-2.4.2/src/frontend/is_authorized.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cedar-policy-2.4.2/src/frontend/utils.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cedar-policy-2.4.2/src/frontend/validate.rs
+
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cedar-policy-2.4.2/src/lib.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cedar-policy-2.4.2/src/api.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cedar-policy-2.4.2/src/frontend/mod.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cedar-policy-2.4.2/src/frontend/is_authorized.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cedar-policy-2.4.2/src/frontend/utils.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cedar-policy-2.4.2/src/frontend/validate.rs:

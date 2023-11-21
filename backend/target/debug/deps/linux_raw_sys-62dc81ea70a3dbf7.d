@@ -1,0 +1,9 @@
+/home/abutalif/rust_projects/fullstack-rust/backend/target/debug/deps/linux_raw_sys-62dc81ea70a3dbf7.rmeta: /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/lib.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/elf.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/errno.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/general.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/ioctl.rs
+
+/home/abutalif/rust_projects/fullstack-rust/backend/target/debug/deps/linux_raw_sys-62dc81ea70a3dbf7.d: /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/lib.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/elf.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/errno.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/general.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/ioctl.rs
+
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/lib.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/elf.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/errno.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/general.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.11/src/x86_64/ioctl.rs:

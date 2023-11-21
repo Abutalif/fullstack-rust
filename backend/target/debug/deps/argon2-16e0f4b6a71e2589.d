@@ -1,0 +1,12 @@
+/home/abutalif/rust_projects/fullstack-rust/backend/target/debug/deps/argon2-16e0f4b6a71e2589.rmeta: /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/argon2-0.5.2/src/lib.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/argon2-0.5.2/src/algorithm.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/argon2-0.5.2/src/blake2b_long.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/argon2-0.5.2/src/block.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/argon2-0.5.2/src/error.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/argon2-0.5.2/src/params.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/argon2-0.5.2/src/version.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/argon2-0.5.2/src/../README.md
+
+/home/abutalif/rust_projects/fullstack-rust/backend/target/debug/deps/argon2-16e0f4b6a71e2589.d: /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/argon2-0.5.2/src/lib.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/argon2-0.5.2/src/algorithm.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/argon2-0.5.2/src/blake2b_long.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/argon2-0.5.2/src/block.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/argon2-0.5.2/src/error.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/argon2-0.5.2/src/params.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/argon2-0.5.2/src/version.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/argon2-0.5.2/src/../README.md
+
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/argon2-0.5.2/src/lib.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/argon2-0.5.2/src/algorithm.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/argon2-0.5.2/src/blake2b_long.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/argon2-0.5.2/src/block.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/argon2-0.5.2/src/error.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/argon2-0.5.2/src/params.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/argon2-0.5.2/src/version.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/argon2-0.5.2/src/../README.md:

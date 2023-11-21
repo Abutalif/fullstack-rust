@@ -1,0 +1,13 @@
+/home/abutalif/rust_projects/fullstack-rust/backend/target/debug/deps/toml-ed04e74f0da9b025.rmeta: /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/lib.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/map.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/value.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/de.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/ser.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/macros.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/edit.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/fmt.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/table.rs
+
+/home/abutalif/rust_projects/fullstack-rust/backend/target/debug/deps/toml-ed04e74f0da9b025.d: /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/lib.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/map.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/value.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/de.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/ser.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/macros.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/edit.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/fmt.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/table.rs
+
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/lib.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/map.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/value.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/de.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/ser.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/macros.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/edit.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/fmt.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.8/src/table.rs:

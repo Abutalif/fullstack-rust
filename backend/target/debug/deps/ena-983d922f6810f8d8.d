@@ -1,0 +1,11 @@
+/home/abutalif/rust_projects/fullstack-rust/backend/target/debug/deps/ena-983d922f6810f8d8.rmeta: /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.2/src/lib.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.2/src/snapshot_vec.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.2/src/undo_log.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.2/src/unify/mod.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.2/src/unify/backing_vec.rs
+
+/home/abutalif/rust_projects/fullstack-rust/backend/target/debug/deps/libena-983d922f6810f8d8.rlib: /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.2/src/lib.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.2/src/snapshot_vec.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.2/src/undo_log.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.2/src/unify/mod.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.2/src/unify/backing_vec.rs
+
+/home/abutalif/rust_projects/fullstack-rust/backend/target/debug/deps/ena-983d922f6810f8d8.d: /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.2/src/lib.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.2/src/snapshot_vec.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.2/src/undo_log.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.2/src/unify/mod.rs /home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.2/src/unify/backing_vec.rs
+
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.2/src/lib.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.2/src/snapshot_vec.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.2/src/undo_log.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.2/src/unify/mod.rs:
+/home/abutalif/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.2/src/unify/backing_vec.rs:

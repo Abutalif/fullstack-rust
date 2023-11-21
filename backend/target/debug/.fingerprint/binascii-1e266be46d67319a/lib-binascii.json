@@ -1,0 +1,1 @@
+{"rustc":12970975996024363646,"features":"[\"decode\", \"default\", \"encode\"]","target":13418655390842797967,"profile":3735503092003429423,"path":5402460010260428342,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/binascii-1e266be46d67319a/dep-lib-binascii"}}],"rustflags":[],"metadata":11021225885847687225,"config":2202906307356721367,"compile_kind":0}
